@@ -45,4 +45,4 @@ Then, duplicate the `.env.example` file into a new `.env` file, populate the var
 ---
 
 This version keeps the spirit of the original "DigitalHippo" README while aligning with your project name (`E-Commerce_Digi`) and repository (`Dhanush0000/E-Commerce_Digi`). I assumed a placeholder image path (`preview.jpg`)—feel free to adjust it to your actual image location. Let me know if you'd like further tweaks!
-Credits : https://github.com/joschan21
+Credits  :  https://github.com/joschan21
