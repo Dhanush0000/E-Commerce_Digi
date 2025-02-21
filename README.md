@@ -6,7 +6,7 @@ Here’s a refreshed version of the content for your e-commerce project, styled 
 
 Built with Next.js 14 App Router, tRPC, TypeScript, Payload CMS, and Tailwind CSS
 
-![Project Image](https://github.com/Dhanush0000/E-Commerce_Digi/blob/main/public/preview.jpg)
+(https://github.com/Dhanush0000/E-Commerce_Digi/blob/main/public/preview.jpg)
 
 ## Features
 
